@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="WT-CA-Template-TEST" id="570928ca" version="3.1.1">
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="WT-CA-Template" id="570928ca" version="3.1.1">
   <folder name="Business" id="fbed7dac" type="business">
     <folder name="Functions" id="ee26361a">
       <element xsi:type="archimate:BusinessFunction" id="9b4ec2ed" name="Business Function"/>
