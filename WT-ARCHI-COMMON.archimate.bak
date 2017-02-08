@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="WT-CA-COMMON-REF" id="dfa6e340" version="3.1.1">
+  <folder name="Business" id="d78d1b4e" type="business">
+    <element xsi:type="archimate:BusinessActor" id="d4bedae3" name="Customer"/>
+    <element xsi:type="archimate:BusinessActor" id="08cb0c5b" name="Internal"/>
+    <element xsi:type="archimate:BusinessRole" id="e3a7f8e2" name="eCommerce Media"/>
+    <element xsi:type="archimate:BusinessRole" id="54fcb8ce" name="eCommerce Marketing"/>
+    <element xsi:type="archimate:BusinessRole" id="1633a0ea" name="eCommerce PriceManager"/>
+    <element xsi:type="archimate:Product" id="cc35f110" name="Product"/>
+    <element xsi:type="archimate:BusinessService" id="47e28a2b" name="Catalog Service"/>
+    <element xsi:type="archimate:BusinessService" id="9bba0ac7" name="Page Service"/>
+    <element xsi:type="archimate:BusinessService" id="6bffe58b" name="Search Service"/>
+    <element xsi:type="archimate:BusinessService" id="5a542051" name="Order Service"/>
+    <element xsi:type="archimate:BusinessService" id="8c5a1be9" name="Customer Service"/>
+    <element xsi:type="archimate:BusinessInterface" id="7134f1e1" name="Mobile Interface"/>
+    <element xsi:type="archimate:BusinessInterface" id="c4f8dcad" name="Desktop Interface"/>
+  </folder>
+  <folder name="Application" id="123ff8aa" type="application"/>
+  <folder name="Technology" id="d2b9f8e8" type="technology"/>
+  <folder name="Motivation" id="206281bc" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="82323f9c" type="implementation_migration"/>
+  <folder name="Connectors" id="07162c6f" type="connectors"/>
+  <folder name="Relations" id="b75db148" type="relations"/>
+  <folder name="Views" id="0221b6e4" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" id="69ebddad" name="Default View"/>
+  </folder>
+</archimate:model>

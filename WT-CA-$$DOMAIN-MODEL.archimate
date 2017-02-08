@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="WT-CA-$$DOMAIN-EMPTY" id="ec67fad7" version="3.1.1">
+  <folder name="Business" id="aa51d7e2" type="business"/>
+  <folder name="Application" id="6c42ba44" type="application"/>
+  <folder name="Technology" id="22a68dca" type="technology"/>
+  <folder name="Motivation" id="e6fcd032" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="f9ef0212" type="implementation_migration"/>
+  <folder name="Connectors" id="713e49e7" type="connectors"/>
+  <folder name="Relations" id="7a8ce083" type="relations"/>
+  <folder name="Views" id="b2619d60" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" id="8c53864e" name="Default View"/>
+  </folder>
+  <property key="Author" value="Laurent VERNET"/>
+  <property key="Company" value="Waacot Technology"/>
+  <property key="Type" value="Template"/>
+  <property key="Domain" value="$$DOMAIN"/>
+  <purpose>This Archimate Model must be used as a &quot;Template&quot; to start a new domain representation.
+
+Replace - $$Domain by the &quot;Business Domain&quot; or &quot; sub-domain&quot; you want to modelized.
+
+</purpose>
+</archimate:model>
